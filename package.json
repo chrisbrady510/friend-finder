@@ -1,0 +1,31 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "A full-stack web application using node.js, Express, and MySQL. This is basically a dating app which uses answers to user surveys to compare and match various users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbrady510/friend-finder.git"
+  },
+  "keywords": [
+    "friends",
+    "friend-finder",
+    "friendFinder",
+    "dating",
+    "match"
+  ],
+  "author": "chris brady",
+  "license": "Berkeley",
+  "bugs": {
+    "url": "https://github.com/chrisbrady510/friend-finder/issues"
+  },
+  "homepage": "https://github.com/chrisbrady510/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
